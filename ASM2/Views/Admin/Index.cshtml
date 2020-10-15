@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ASM2.Models.ApplicationUser>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table table-striped">
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Email</th>
+		<th>Delete</th>
+		<th>Edit</th>
+	</tr>
+	@foreach (var users in Model)
+	{
+		<tr>
+			<td>@users.Id</td>
+			<td>@users.UserName</td>
+			<td>@users.Email</td>
+			<td>@Html.ActionLink("Delete this user", "Delete", new { id = users.Id })</td>
+			<td>@Html.ActionLink("Edit this user", "Edit", new { id = users.Id })</td>
+		</tr>
+	}
+</table>

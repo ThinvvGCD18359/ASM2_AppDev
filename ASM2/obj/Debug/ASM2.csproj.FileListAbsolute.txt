@@ -1,0 +1,227 @@
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\ASM2.dll.config
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\ASM2.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\ASM2.pdb
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\csc.exe
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\csc.exe.config
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\csc.rsp
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\csi.exe
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\csi.exe.config
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\csi.rsp
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.AppContext.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Console.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.IO.Compression.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Net.Http.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.ValueTuple.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\vbc.exe
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\vbc.exe.config
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\vbc.rsp
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\VBCSCompiler.exe
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Antlr3.Runtime.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\EntityFramework.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\EntityFramework.SqlServer.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Newtonsoft.Json.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Owin.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Helpers.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Mvc.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Optimization.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Razor.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.WebPages.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.WebPages.Razor.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\WebGrease.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Helpers.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Mvc.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Optimization.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.Razor.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.WebPages.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\System.Web.WebPages.Razor.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Newtonsoft.Json.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Antlr3.Runtime.pdb
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\EntityFramework.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\EntityFramework.SqlServer.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.csprojAssemblyReference.cache
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.CopyComplete
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.dll
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.pdb
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.Migrations.InitDb.resources
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.GenerateResource.cache
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.Migrations.CategoryTable.resources
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.Migrations.CourseTable.resources
+C:\Users\kiept\source\repos\ASM2\ASM2\obj\Debug\ASM2.Migrations.TopicTable.resources
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\ASM2.dll.config
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\ASM2.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\ASM2.pdb
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\csc.exe
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\csc.exe.config
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\csc.rsp
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\csi.exe
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\csi.exe.config
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\csi.rsp
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.AppContext.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Console.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.IO.Compression.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Net.Http.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.ValueTuple.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\vbc.exe
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\vbc.exe.config
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\vbc.rsp
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\VBCSCompiler.exe
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Antlr3.Runtime.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\EntityFramework.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\EntityFramework.SqlServer.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Newtonsoft.Json.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Owin.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Helpers.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Mvc.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Optimization.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Razor.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.WebPages.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.WebPages.Razor.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\WebGrease.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Helpers.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Mvc.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Optimization.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.Razor.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.WebPages.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\System.Web.WebPages.Razor.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Newtonsoft.Json.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Antlr3.Runtime.pdb
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\EntityFramework.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\EntityFramework.SqlServer.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.csprojAssemblyReference.cache
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.Migrations.InitDb.resources
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.Migrations.CategoryTable.resources
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.Migrations.CourseTable.resources
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.Migrations.TopicTable.resources
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.csproj.GenerateResource.cache
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.csproj.CopyComplete
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.dll
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.pdb
+C:\Users\kiept\source\repos\ASM2 - Copy\ASM2\obj\Debug\ASM2.Migrations.AddCategoryIdToCourseTable.resources
