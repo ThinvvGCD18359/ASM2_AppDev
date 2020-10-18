@@ -8,8 +8,8 @@ using System.Web.Mvc;
 
 namespace ASM2.Controllers
 {
-    public class TopicsController : Controller
-    {
+	public class TopicsController : Controller
+	{
 		private ApplicationDbContext _context;
 
 		public TopicsController()
@@ -26,7 +26,6 @@ namespace ASM2.Controllers
 				topics = topics.Where(s => s.Name.Contains(searchString) || s.Course.Name.Contains(searchString));
 			}
 			return View(topics.ToList());
-
 		}
 		// Create: Topic
 		[HttpGet]

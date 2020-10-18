@@ -138,10 +138,21 @@ namespace ASM2.Controllers
         //
         // GET: /Account/Register
         [AllowAnonymous]
+        
         public ActionResult Register()
         {
-            ViewBag.Name = new SelectList(_context.Roles.Where(u => !u.Name.Contains("Admin"))    
-                                    .ToList(), "Name", "Name");    
+            if (User.IsInRole("Admin"))
+			      {
+                ViewBag.Name = new SelectList(_context.Roles.Where(u => !u.Name.Contains("Admin") && !u.Name.Contains("Trainee"))  
+                                    .ToList(), "Name", "Name");
+			      }
+
+            else if (User.IsInRole("Training Staff"))
+			      {
+                ViewBag.Name = new SelectList(_context.Roles.Where(u => !u.Name.Contains("Admin") && !u.Name.Contains("Trainer") && !u.Name.Contains("Training Staff"))    
+                                    .ToList(), "Name", "Name");
+			      }
+                
             return View(); 
         }
 

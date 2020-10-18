@@ -29,7 +29,7 @@ namespace ASM2.Controllers
 			return View(courses);
 		}*/
 
-		// GET: Products
+		// GET: Course
 		[HttpGet]
 		public ActionResult Index(string searchString)
 		{

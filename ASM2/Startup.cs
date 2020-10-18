@@ -46,7 +46,7 @@ namespace ASM2
           var result1 = UserManager.AddToRole(user.Id, "Admin");
         }
       }
-      // creating Creating Manager role     
+      // Creating Training Staff role     
       if (!roleManager.RoleExists("Training Staff"))
       {
         var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
@@ -55,11 +55,20 @@ namespace ASM2
 
       }
 
-      // creating Creating Employee role     
+      // Creating Trainer role     
       if (!roleManager.RoleExists("Trainer"))
       {
         var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
         role.Name = "Trainer";
+        roleManager.Create(role);
+
+      }
+
+      // Creating Trainee role
+      if (!roleManager.RoleExists("Trainee"))
+      {
+        var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
+        role.Name = "Trainee";
         roleManager.Create(role);
 
       }

@@ -1,5 +1,7 @@
 ﻿using ASM2.Models;
+using ASM2.ViewModels;
 using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.Owin;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +15,31 @@ namespace ASM2.Controllers
 	public class AdminController : Controller
 	{
 		private ApplicationDbContext _context;
+    private ApplicationUserManager _userManager;
+    private ApplicationSignInManager _signInManager;
 
+    public ApplicationSignInManager SignInManager
+    {
+      get
+      {
+        return _signInManager ?? HttpContext.GetOwinContext().Get<ApplicationSignInManager>();
+      }
+      private set
+      {
+        _signInManager = value;
+      }
+    }
+    public ApplicationUserManager UserManager
+        {
+            get
+            {
+                return _userManager ?? HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
+            }
+            private set
+            {
+                _userManager = value;
+            }
+        }
 		public AdminController()
 		{
 			_context = new ApplicationDbContext();
@@ -22,8 +48,27 @@ namespace ASM2.Controllers
 		[HttpGet]
 		public ActionResult Index()
 		{
-			var users = _context.Users.ToList();
-			return View(users);
+      var userInfor = (from user in _context.Users
+                       select new
+                       {
+                         UserId = user.Id,
+                         Username = user.UserName,
+                         EmailAddress = user.Email,
+                         RoleName = (from userRole in user.Roles
+                                     join role in _context.Roles
+                                     on userRole.RoleId
+                                     equals role.Id
+                                     select role.Name).ToList()
+                       }
+                       ).ToList().Select(p => new UserRoleViewModel()
+                                    {
+                                     UserId = p.UserId,
+                                     Username = p.Username,
+                                     Email = p.EmailAddress,
+                                     Role = string.Join(",", p.RoleName)
+                                    }
+                       );
+      return View(userInfor);
 		}
     //DELETE ACCOUNT
     [HttpGet]
@@ -72,6 +117,22 @@ namespace ASM2.Controllers
       AccountInDB.UserName = user.UserName;
       _context.SaveChanges();
 
+      return RedirectToAction("Index");
+    }
+
+    public async Task<ActionResult> ChangePassword(ChangePasswordViewModel usermodel, ApplicationUser _user)
+    {
+      ApplicationUser user = await UserManager.FindByIdAsync(_user.Id);
+      if (user == null)
+      {
+        return HttpNotFound();
+      }
+      user.PasswordHash = UserManager.PasswordHasher.HashPassword(usermodel.NewPassword);
+      var result = await UserManager.UpdateAsync(user);
+      if (!result.Succeeded)
+      {
+        //throw exception......
+      }
       return RedirectToAction("Index");
     }
   }

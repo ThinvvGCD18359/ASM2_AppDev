@@ -1,4 +1,4 @@
-﻿@model IEnumerable<ASM2.Models.ApplicationUser>
+﻿@model IEnumerable<ASM2.ViewModels.UserRoleViewModel>
 @{
     ViewBag.Title = "Index";
 }
@@ -10,17 +10,21 @@
 		<th>Id</th>
 		<th>Name</th>
 		<th>Email</th>
+		<th>Role</th>
 		<th>Delete</th>
 		<th>Edit</th>
+		<th>ChangePass</th>
 	</tr>
 	@foreach (var users in Model)
 	{
 		<tr>
-			<td>@users.Id</td>
-			<td>@users.UserName</td>
+			<td>@users.UserId</td>
+			<td>@users.Username</td>
 			<td>@users.Email</td>
-			<td>@Html.ActionLink("Delete this user", "Delete", new { id = users.Id })</td>
-			<td>@Html.ActionLink("Edit this user", "Edit", new { id = users.Id })</td>
+			<td>@users.Role</td>
+			<td>@Html.ActionLink("Delete this user", "Delete", new { id = users.UserId })</td>
+			<td>@Html.ActionLink("Edit this user", "Edit", new { id = users.UserId })</td>
+			<td>@Html.ActionLink("Change this pass", "ChangePassword", new { id = users.UserId })</td>
 		</tr>
 	}
 </table>

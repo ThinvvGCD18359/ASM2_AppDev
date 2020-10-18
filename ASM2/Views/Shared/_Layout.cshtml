@@ -20,19 +20,18 @@
                 @Html.ActionLink("The FTMS", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
             </div>
             <div class="navbar-collapse collapse">
-				<ul class="nav navbar-nav">
-					<li>@Html.ActionLink("Home", "Index", "Home")</li>
-					<li>@Html.ActionLink("Category", "Index", "Categories")</li>
-					<li>@Html.ActionLink("Accounts", "Index", "Admin")</li>
-					<li>@Html.ActionLink("Course", "Index", "Courses")</li>
-					<li>@Html.ActionLink("Topic", "Index", "Topics")</li>
-
-
-					@if (Request.IsAuthenticated && User.IsInRole("Admin"))
-					{
-					<li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
-					}
-				</ul>
+							<ul class="nav navbar-nav">
+								<li>@Html.ActionLink("Home", "Index", "Home")</li>
+								<li>@Html.ActionLink("Category", "Index", "Categories")</li>
+								@if (Request.IsAuthenticated && User.IsInRole("Admin"))
+								{
+									<li>@Html.ActionLink("Accounts", "Index", "Admin")</li>
+								}
+								<li>@Html.ActionLink("Course", "Index", "Courses")</li>
+								<li>@Html.ActionLink("Topic", "Index", "Topics")</li>
+								<li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+								
+							</ul>
                 @Html.Partial("_LoginPartial")
             </div>
         </div>
